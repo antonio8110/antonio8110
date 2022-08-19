@@ -1,12 +1,7 @@
 # sobre mim
 
-- 👋 Hi, I’m @antonio8110
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Meu nome é Antonio
 
-<!---
-antonio8110/antonio8110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Estou interessado em aprender a programar novas linguagens.
+
+- 🌱 Estou aprendendo a programar pelo JavaScript e Scratch.
